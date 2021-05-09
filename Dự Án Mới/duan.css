@@ -1,0 +1,235 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#product {
+    border: 1px solid gainsboro;
+    width: 869px;
+    height: 280px;
+    top: 954px;
+    left: 375px;
+    border-radius: 12px;
+    position: absolute;
+}
+
+#img {
+    background-color: gainsboro;
+    width: 268px;
+    height: 280px;
+    position: absolute;
+}
+
+#prtitle {
+    width: 269px;
+    height: 212px;
+    top: 32px;
+    left: 300px;
+    position: absolute;
+}
+
+#title {
+    width: 269px;
+    height: 75px;
+    position: static;
+    top: 0px;
+    left: 0px;
+}
+
+#sao {
+    width: 108px;
+    height: 20px;
+    left: 0px;
+    top: 55px;
+    position: static;
+}
+
+.star {
+    height: 13.5px;
+}
+
+#decript {
+    width: 237px;
+    height: 112px;
+    top: 128px;
+    left: 0px;
+    position: absolute;
+    border: 1px solid black;
+}
+
+#fresheness {
+    width: 74px;
+    left: 0px;
+    top: 0px;
+    color: #a9a9a9;
+}
+
+.decpt {
+    height: 19px;
+    font-family: Open sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 19px;
+}
+
+#new {
+    width: 113px;
+    left: 106px;
+    top: 0px;
+    position: absolute;
+}
+
+#delivery {
+    width: 53px;
+    left: 0px;
+    top: 31px;
+    position: absolute;
+    color: #a9a9a9;
+}
+
+#europe {
+    width: 48px;
+    left: 106px;
+    top: 31px;
+    position: absolute;
+    color: #a9a9a9;
+}
+
+#stock {
+    width: 36px;
+    left: 0px;
+    top: 62px;
+    position: absolute;
+    color: #a9a9a9;
+}
+
+#pcs {
+    width: 50px;
+    left: 106px;
+    top: 62px;
+    position: absolute;
+    color: green;
+}
+
+#farm {
+    width: 34px;
+    top: 93px;
+    color: #a9a9a9;
+    position: absolute;
+}
+
+#gtf {
+    width: 131px;
+    top: 93px;
+    left: 106px;
+    position: absolute;
+    color: #a9a9a9;
+}
+
+#USD {
+    width: 91px;
+    height: 27px;
+    top: 32px;
+    left: 665px;
+    position: absolute;
+}
+
+#prevalue {
+    width: 35px;
+    height: 18px;
+    font-size: 12px;
+    font-weight: bold;
+    top: 68px;
+    left: 665px;
+    font-style: normal;
+    line-height: 18px;
+    color: #a9a9a9;
+    position: absolute;
+    text-decoration: line-through;
+}
+
+#freeship {
+    width: 84px;
+    height: 18px;
+    top: 93px;
+    left: 665px;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    color: gray;
+    position: absolute;
+}
+
+#delivertime {
+    width: 92px;
+    height: 16px;
+    top: 111px;
+    left: 665px;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 12px;
+    line-height: 16.34px;
+    color: #a9a9a9;
+    position: absolute;
+}
+
+#detailandadd {
+    width: 164px;
+    height: 94px;
+    top: 154px;
+    left: 673px;
+    position: absolute;
+}
+
+#productdetail {
+    border: 2px solid;
+    background-color: green;
+    width: 164px;
+    height: 47px;
+    border-radius: 12px;
+    padding: 12px, 16px, 12px, 16px;
+}
+
+#detail {
+    width: 110px;
+    height: 23px;
+    top: 12px;
+    left: 16px;
+    font-weight: 700;
+    color: white;
+    position: absolute;
+}
+
+#right {
+    top: 15.5px;
+    left: 132px;
+    position: absolute;
+    color: white;
+}
+
+#addtolist {
+    width: 164px;
+    height: 35px;
+    top: 59px;
+    border-radius: 12px;
+    padding: 6px 12px 6px 12px;
+    background-color: #f5f5f5;
+    position: absolute;
+}
+
+#tym {
+    top: 9.5px;
+    left: 12px;
+    position: absolute;
+}
+
+#add {
+    width: 116px;
+    height: 23px;
+    top: 6px;
+    left: 36px;
+    font-weight: 700;
+    position: absolute;
+}
